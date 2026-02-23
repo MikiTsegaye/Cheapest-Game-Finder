@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AlgosForProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/AlgosForProject.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
