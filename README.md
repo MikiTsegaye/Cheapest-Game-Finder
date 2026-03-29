@@ -81,4 +81,4 @@ By feeding this graph into **Dijkstra’s Algorithm**, the system calculates the
 ---
 
 ### 📝 Academic Context
-This project was developed as a final project for the **Software Engineering/Advanced Java** course. It demonstrates mastery of **Design Patterns (MVC, DAO, Singleton)**, **Network Programming**, and **Algorithmic Efficiency**.
+This project was developed as a final project for the **Software Engineering/Advanced Java** course. It demonstrates mastery of **Design Patterns (MVC, DAO)**, **Network Programming**, and **Algorithmic Efficiency**.
